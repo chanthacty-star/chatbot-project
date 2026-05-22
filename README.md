@@ -1,6 +1,6 @@
-# 🤖# chatbot-project
+# 🤖 ChatBot Project
 
-Simple chatbot system built with C# and ASP.NET Core. This project is part of my learning journey to become a full-stack developer.
+A simple chatbot web application built using HTML, CSS, and JavaScript.
 
 ## 📌 Features
 - Simple user interface
